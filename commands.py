@@ -1,3 +1,5 @@
+# The is the kernel of our amazing innovative Artificial Intelligence for the industry 6.0
+
 commands = [
 	{
 		"name": "ping",
